@@ -1,4 +1,4 @@
-# All unpinned blobs below are extracted from miui_MOONSTONEGlobal_V14.0.6.0.TMPMIXM_f60b30054a_13.0
+# All unpinned blobs below are extracted from moonstone_global V816.0.3.0.UMPMIXM release-keys
 
 # ADSP
 vendor/bin/adsprpcd
@@ -1389,7 +1389,6 @@ vendor/lib64/libqmiservices.so
 etc/permissions/privapp-permissions-qti.xml
 -system_ext/app/QtiTelephonyService/QtiTelephonyService.apk
 -system_ext/app/atfwd/atfwd.apk
-system_ext/etc/permissions/embms.xml
 system_ext/etc/permissions/privapp-permissions-qti-system-ext.xml
 system_ext/etc/permissions/qcrilhook.xml
 system_ext/etc/permissions/qti_permissions.xml
