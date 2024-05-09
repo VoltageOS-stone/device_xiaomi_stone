@@ -19,6 +19,8 @@ TARGET_SUPPORTS_QUICK_TAP  := true
 TARGET_SUPPORTS_CALL_RECORDING := true
 TARGET_INCLUDE_PIXEL_CHARGER := true
 
+TARGET_DISABLE_EPPE := true
+
 # Device identifier. This must come after all inclusions.
 PRODUCT_NAME := lineage_stone
 PRODUCT_DEVICE := stone
