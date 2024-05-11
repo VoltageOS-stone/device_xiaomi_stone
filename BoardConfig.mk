@@ -261,6 +261,3 @@ BOARD_VNDK_VERSION := current
 
 # Inherit from the proprietary version
 include vendor/xiaomi/stone/BoardConfigVendor.mk
-
-# SELinux
-SELINUX_IGNORE_NEVERALLOWS := true
