@@ -5,11 +5,11 @@
     "branch": "lineage-21"
   },
   {
-    "repository": "crdroidandroid/proprietary_vendor_xiaomi-stone",
+    "repository": "VoltageOS-stone/vendor_xiaomi_stone",
     "target_path": "vendor/xiaomi/stone"
   },
   {
-    "repository": "crdroidandroid/android_kernel_xiaomi_stone",
+    "repository": "VoltageOS-stone/kernel_xiaomi_stone-prebuilt",
     "target_path": "device/xiaomi/stone-kernel"
   },
   {
